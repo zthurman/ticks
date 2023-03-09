@@ -1,0 +1,55 @@
+show-summary: true
+show-tags: true
+show-fundamentals: true
+show-separator: true
+show-holdings: true
+interval: 5
+currency: USD
+currency-summary-only: false
+groups:
+  - name : hard_long
+    holdings:
+      - symbol: "VTI"
+        quantity: 1
+        unit_cost: 197.08
+      - symbol: "VGT"
+        quantity: 1
+        unit_cost: 367.04
+      - symbol: "VO"
+        quantity: 1
+        unit_cost: 226.46
+      - symbol: "VB"
+        quantity: 1
+        unit_cost: 205.15
+      - symbol: "VSGX"
+        quantity: 1
+        unit_cost: 56.87
+  - name : idiotic_yolo
+    holdings:
+      - symbol: "ADI"
+        quantity: 1
+        unit_cost: 157.12
+      - symbol: "TSM"
+        quantity: 1
+        unit_cost: 109
+      - symbol: "ASML"
+        quantity: 1
+        unit_cost: 585.38
+      - symbol: "TXN"
+        quantity: 1
+        unit_cost: 171.60
+      - symbol: "NOK"
+        quantity: 1
+        unit_cost: 4.93
+      - symbol: "SWKS"
+        quantity: 1
+        unit_cost: 116.18
+      - symbol: "MCHP"
+        quantity: 1
+        unit_cost: 67.23
+      - symbol: "GFS"
+        quantity: 1
+        unit_cost: 52.74
+      - symbol: "MU"
+        quantity: 1
+        unit_cost: 68.68
