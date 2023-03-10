@@ -7,7 +7,7 @@ interval: 5
 currency: USD
 currency-summary-only: false
 groups:
-  - name : hard_long
+  - name : diamond_hands
     holdings:
       - symbol: "VTI"
         quantity: 1
@@ -24,7 +24,7 @@ groups:
       - symbol: "VSGX"
         quantity: 1
         unit_cost: 56.87
-  - name : idiotic_yolo
+  - name : paper_handed_fuck
     holdings:
       - symbol: "ADI"
         quantity: 1
